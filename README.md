@@ -11,4 +11,3 @@ Esto incluye la extracción de noticias importantes sobre el cambio climático y
 - BeautifulSoup
 - Requests
 - Discord.py
-- 
